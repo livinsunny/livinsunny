@@ -1,9 +1,11 @@
+<p align="center"> <img src="http://tinygraphs.com/labs/isogrids/hexa/Livin Sunny?theme=duskfalling&numcolors=4&size=220&fmt=svg">
 <h1 align="center">Hi, I'm Livin Sunny</h1>
 <h3 align="center">Linux enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livinsunny&label=Profile%20views&color=0e75b6&style=flat" alt="livinsunny" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=livinsunny" alt="livinsunny" /></a> </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
